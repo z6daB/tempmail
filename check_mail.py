@@ -4,7 +4,6 @@ import string
 import time
 import os
 
-
 API = 'https://www.1secmail.com/api/v1/'
 
 

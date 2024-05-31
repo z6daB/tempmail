@@ -5,7 +5,6 @@ import time
 import os
 
 
-
 def delete_mail(mail=''):
     url = 'https://www.1secmail.com/mailbox'
 
